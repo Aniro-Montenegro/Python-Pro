@@ -19,3 +19,14 @@ while len(palavra)<n:
         i=0
 
 print(palavra)
+
+'''
+4
+5 A 1
+0 T 7
+3 M 5
+7 E 3
+
+
+TEMA
+'''
