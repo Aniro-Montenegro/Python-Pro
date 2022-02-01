@@ -7,3 +7,12 @@ utilizando somente letras maiúsculas. Dica: lembre−se que ao informar o nome 
 ou minúsculas.
 
 """
+
+nome = input('Digite o seu nome: ')
+nome_invertido = "".join(reversed(nome.upper()))
+print(nome_invertido)
+
+nome = input('Digite o seu nome: ')
+lista = nome.split(" ")
+nome_invertido = " ".join(reversed(lista))
+print(nome_invertido.upper())
