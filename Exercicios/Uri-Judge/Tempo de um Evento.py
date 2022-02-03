@@ -34,6 +34,9 @@ print(f'{segundos} segundo(s)')
 
 
 '''
+RANKING
+4783	26073310	Aniro Montenegro	Python 3.8	0.185	29/01/2022 17:02:09
+
 PROBLEMA:
 1061 - Tempo de um Evento
 RESPOSTA:
