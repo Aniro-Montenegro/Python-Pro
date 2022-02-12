@@ -34,3 +34,5 @@ listaF.sort(key=lambda x: x[1])
 listaF.reverse()
 for x in listaF:
     print(x[0] + " " + x[1])
+
+
