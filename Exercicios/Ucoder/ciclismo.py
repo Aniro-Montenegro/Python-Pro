@@ -1,3 +1,17 @@
+"""
+Detalhes da submissão
+Problema: Ciclismo
+Resultado: Accepted
+Tempo: 0,3828
+Submissão: 13/02/2022 02:39:06
+
+
+
+	    PROBLEMA	USUÁRIO	            LINGUAGEM	TEMPO	RANKING
+31405	Ciclismo	Aniro Montenegro	Python 3.4	0,3828	#1
+
+"""
+
 nome1 = input()
 v1 = float(input())
 nome2 = input()
@@ -12,7 +26,7 @@ minuto = 0
 
 while True:
     m = m - t
-    if m <= 0:
+    if m < 0:
         break
     else:
 
@@ -30,7 +44,7 @@ minuto = 0
 
 while True:
     m = m - t
-    if m <= 0:
+    if m < 0:
         break
     else:
 
@@ -48,7 +62,7 @@ minuto = 0
 
 while True:
     m = m - t
-    if m <= 0:
+    if m < 0:
         break
     else:
         minuto = minuto + 1
