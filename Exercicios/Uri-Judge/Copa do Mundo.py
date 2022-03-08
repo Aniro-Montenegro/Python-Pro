@@ -8,6 +8,8 @@ TAMANHO:881 Bytes
 MEMÓRIA:-
 SUBMISSÃO:27/02/2022 23:43:18
 
+110	26486758	Aniro Montenegro	Python 3.8	0.087	28/02/2022 02:31:29
+
 """
 
 lista_times = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P']
