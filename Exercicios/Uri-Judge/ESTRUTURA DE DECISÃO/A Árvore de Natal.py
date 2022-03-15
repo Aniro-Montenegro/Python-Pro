@@ -9,6 +9,8 @@ MEMÓRIA:-
 SUBMISSÃO:15/03/2022 12:47:44
 
 389	26733976	Aniro Montenegro	Python 3.8	0.183	15/03/2022 15:44:31
+
+2931   Aniro Montenegro	FATEC-SJC	782,86	↥14
 """
 
 n = int(input())

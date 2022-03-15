@@ -2,18 +2,12 @@
 SUBMISSÃO # 26172524
 PROBLEMA:
 3147 - A Batalha dos Cinco Exércitos
-RESPOSTA:
-Accepted
-LINGUAGEM:
-Python 3.4 (Python 3.4.3) [+1s]
-TEMPO:
-0.014s
-TAMANHO:
-236 Bytes
-MEMÓRIA:
--
-SUBMISSÃO:
-07/02/2022 10:39:32
+RESPOSTA:Accepted
+LINGUAGEM:Python 3.4 (Python 3.4.3) [+1s]
+TEMPO:0.014s
+TAMANHO:236 Bytes
+MEMÓRIA:-
+SUBMISSÃO:07/02/2022 10:39:32
 
 RANKING    SUBMISSÃO     USUÁRIO	        LINGUAGEM        TEMPO          DATA DA SUBMISSÃO
 94	       26172524	     Aniro Montenegro	Python 3	     0.014	       07/02/2022 13:39:32
